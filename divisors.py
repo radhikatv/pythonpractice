@@ -1,3 +1,6 @@
+"""
+Fetches factors of a given number
+"""
 num = int(input("Enter a Number"))
 div = 1
 print("Divisors of "+ str(num) + " are")
